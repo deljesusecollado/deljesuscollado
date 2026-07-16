@@ -17,6 +17,28 @@ University of Houston
 
 ---
 
+## Technical Roadmap
+
+✅ Cisco Networking Basics
+
+🔄 AWS Cloud Practitioner Essentials
+
+🔄 Cisco Cybersecurity Essentials
+
+⬜ Linux Fundamentals
+
+⬜ Python for Automation
+
+⬜ AWS Solutions Architect Associate
+
+⬜ Terraform
+
+⬜ Docker
+
+⬜ Kubernetes
+
+---
+
 ## Currently Learning
 
 - Cisco Networking
@@ -24,6 +46,18 @@ University of Houston
 - Linux
 - Python
 - Git & GitHub
+
+---
+
+## Projects
+
+Coming soon...
+
+- Cisco Packet Tracer Labs
+- AWS Cloud Labs
+- Linux Administration Lab
+- Python Automation Scripts
+- Terraform Infrastructure Projects
 
 ---
 
